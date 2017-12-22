@@ -40,4 +40,3 @@ $ weexpack platform add android
 ```
 $ weex run android
 ```
-
